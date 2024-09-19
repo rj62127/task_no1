@@ -4,7 +4,7 @@ This project demonstrates how to set up a data pipeline to source data from a Po
 
 ## Architecture
 
-![Architecture Diagram](file:///home/opstree/Pictures/Screenshots/Screenshot%20from%202024-09-19%2022-57-06.png)
+![Architecture Diagram](home/opstree/Pictures/Screenshots/Screenshot%20from%202024-09-19%2022-57-06.png)
 
 ## Overview
 
