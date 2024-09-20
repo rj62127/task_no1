@@ -4,7 +4,8 @@ This project demonstrates how to set up a data pipeline to source data from a Po
 
 ## Architecture
 
-![Architecture Diagram](home/opstree/Pictures/Screenshots/Screenshot%20from%202024-09-19%2022-57-06.png)
+![alt text](images/architecture.png)
+
 
 ## Overview
 
@@ -71,10 +72,12 @@ Confluent Cloud manages the JDBC driver internally, so you don’t need to uploa
 
 After the configuration is complete, the pipeline will automatically source data from the PostgreSQL tables and sink it into the specified S3 bucket in the chosen format.
 
-![Result Diagram](file:///home/opstree/Pictures/Screenshots/Screenshot%20from%202024-09-17%2018-54-06.png)
-![Result Diagram](file:///home/opstree/Pictures/Screenshots/Screenshot%20from%202024-09-17%2018-54-31.png)
-![Result Diagram](file:///home/opstree/Pictures/Screenshots/Screenshot%20from%202024-09-17%2018-54-57.png)
-![Result Diagram](file:///home/opstree/Pictures/Screenshots/Screenshot%20from%202024-09-17%2018-55-19.png)
+![alt text](<images/Screenshot from 2024-09-17 18-54-06.png>)
+![alt text](<images/Screenshot from 2024-09-17 18-53-58.png>)
+![alt text](<images/Screenshot from 2024-09-17 18-54-31.png>)
+![alt text](<images/Screenshot from 2024-09-17 18-54-57.png>)
+![alt text](<images/Screenshot from 2024-09-17 18-55-09.png>)
+![alt text](<images/Screenshot from 2024-09-17 18-55-19.png>)
 
 ## Commands
 
